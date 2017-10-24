@@ -8,15 +8,15 @@
 
 **Link to work:** MyPortfolio
 
-### Day 1:
+### Day 1: Oct. 23rd 2017
 
-**Today's Progress**: 
+**Today's Progress**: Spent a lot of time trying to figure how this challenge works and what projects to work on. Will try to work on this: https://codepen.io/freeCodeCamp/full/NNvBQW
 
-**Thoughts**:
+**Thoughts**: Wondering if I can really commit to this...or if I will just let myself down
 
-**Link(s) to work**:
+**Link(s) to work**: https://codepen.io/freeCodeCamp/full/NNvBQW https://codepen.io/UllaBullaBullshit/pen/eGaEMp
 
-### Day 2:
+### Day 2: Oct. 24th 2017
 
 **Today's Progress**: 
 
