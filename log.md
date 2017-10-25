@@ -18,19 +18,19 @@
 
 ### Day 2: Oct. 24th 2017
 
-**Today's Progress**: 
+**Today's Progress**: I can do this shit (just going through basic html again)
 
-**Thoughts**:
+**Thoughts**: Taking time to code in the morning works way better than trying to rush it in the evening.
 
-**Link(s) to work**:
+**Link(s) to work**: https://www.freecodecamp.org/challenges/use-rgb-values-to-color-elements
 
-### Day 3:
+### Day 3:Oct. 25th 2017
 
-**Today's Progress**: 
+**Today's Progress**: Went well, didn't code for 1 whole hour, but did 45 mins.
 
-**Thoughts**:
+**Thoughts**: Wondering whether I should skip the basic html +css, but I feel like I need the review.
 
-**Link(s) to work**:
+**Link(s) to work**: https://www.freecodecamp.org/challenges/use-rgb-values-to-color-elements
 
 ### Day 4:
 
