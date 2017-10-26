@@ -32,23 +32,16 @@
 
 **Link(s) to work**: https://www.freecodecamp.org/challenges/use-rgb-values-to-color-elements
 
-### Day 4:
+### Day 4: Oct 26th 2017
 
-**Today's Progress**: 
+**Today's Progress**: Learning bootstrap
 
-**Thoughts**:
+**Thoughts**: Confused about the difference between bootstrap and gridlex
 
-### Day 5:
+**Link(s) to work**:  https://www.freecodecamp.org/challenges/use-rgb-values-to-color-elements
 
-**Today's Progress**: 
 
-**Thoughts**:
-
-**Link(s) to work**:
-
-**Link(s) to work**:
-
-### Day 6:
+### Day 5: Oct 27th 2017
 
 **Today's Progress**: 
 
@@ -56,13 +49,24 @@
 
 **Link(s) to work**:
 
-### Day 7:
+
+### Day 6: Oct 28th 2017
 
 **Today's Progress**: 
 
 **Thoughts**:
 
 **Link(s) to work**:
+
+
+### Day 7: Oct 29th 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
 
 ### Day 1:
 
