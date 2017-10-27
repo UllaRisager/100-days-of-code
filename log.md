@@ -69,6 +69,126 @@
 **Link(s) to work**:
 
 
+### Day 8: Oct. 30th 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+
+### Day 9: Oct. 31st 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 10: Nov. 1st 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 11: Nov. 2nd 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 12: Nov. 3rd 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 13: Nov. 4th 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 14: Nov. 5th 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 15: Nov. 6th 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+
+### Day 16: Nov 7th 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+
+### Day 1:
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 1:
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 1:
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 1:
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
 ### Day 1:
 
 **Today's Progress**: 
