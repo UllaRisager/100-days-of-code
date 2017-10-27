@@ -43,11 +43,12 @@
 
 ### Day 5: Oct 27th 2017
 
-**Today's Progress**: 
+**Today's Progress**: I believe I typed this correctly: $("#target1").prop("disabled", true); yet I cannot continue to the next challenge
 
-**Thoughts**:
 
-**Link(s) to work**:
+**Thoughts**: Stupid bullshit, this is not working
+
+**Link(s) to work**: Disable an Element Using jQuery: https://www.freecodecamp.org/challenges/disable-an-element-using-jquery
 
 
 ### Day 6: Oct 28th 2017
