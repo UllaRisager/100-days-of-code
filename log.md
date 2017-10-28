@@ -57,7 +57,7 @@
 
 **Thoughts**: SO TIRED, started coding at 23.29 and just finished now at 00.29. Spent all day at the dmss.io conference and came home later, DID NOT want to code for a whole hour, but I did it anyways! So tired now, gonna pass out! Need to code in the morning!
 
-**Link(s) to work**: https://codepen.io/UllaBullaBullshit/pen/ooNoQP
+**Link(s) to work**: https://codepen.io/UllaRisager/pen/ooNoQP
 
 
 ### Day 7: Oct 29th 2017
