@@ -62,11 +62,11 @@
 
 ### Day 7: Oct 29th 2017
 
-**Today's Progress**: 
+**Today's Progress**: Started styling my tribute page to make it look like this: https://codepen.io/freeCodeCamp/full/NNvBQW
 
-**Thoughts**:
+**Thoughts**: So tired started 21.00 and didn't think I would continue for 1 hour, but ended up doing more. SO FREAKING tired!
 
-**Link(s) to work**:
+**Link(s) to work**: https://codepen.io/UllaRisager/full/ooNoQP/
 
 
 ### Day 8: Oct. 30th 2017
