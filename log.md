@@ -71,11 +71,11 @@
 
 ### Day 8: Oct. 30th 2017
 
-**Today's Progress**: 
+**Today's Progress**: I had to look up stuff online to do my css, but it worked
 
-**Thoughts**:
+**Thoughts**: I coded for 1 hour between 4.30-5.30 pm and it was soooo fantastic not having to code in the evening!
 
-**Link(s) to work**:
+**Link(s) to work**: https://codepen.io/UllaRisager/pen/ooNoQP
 
 
 
