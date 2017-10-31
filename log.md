@@ -81,11 +81,11 @@
 
 ### Day 9: Oct. 31st 2017
 
-**Today's Progress**: 
+**Today's Progress**: Finished my Tribute Page, need to make it responsive. Starting this now: https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage
 
-**Thoughts**:
+**Thoughts**: I looked in the example code and he built it all in html and I did it with CSS and I don't know if that's ok? I still need to make it responsive, and it doesn't work with gridlex, don't really know how to do it and I tried asking in the forum, but didn't understand their replies, lol.
 
-**Link(s) to work**:
+**Link(s) to work**: https://codepen.io/UllaRisager/pen/ooNoQP
 
 
 ### Day 10: Nov. 1st 2017
