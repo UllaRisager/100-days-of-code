@@ -90,11 +90,11 @@
 
 ### Day 10: Nov. 1st 2017
 
-**Today's Progress**: 
+**Today's Progress**: Started building y portfolio page. Had to draw it out on paper first. 
 
-**Thoughts**:
+**Thoughts**: No idea how I'm gonna style this. I'm so confused as to whether I should continue doing FreeCodeCamp stuff or actually work on my own Portfolio page?
 
-**Link(s) to work**:
+**Link(s) to work**: https://codepen.io/UllaRisager/pen/EbjMdg
 
 
 ### Day 11: Nov. 2nd 2017
